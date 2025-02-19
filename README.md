@@ -1,3 +1,4 @@
+![logo](https://github.com/mayergoyal/mayergoyal/blob/main/Mayer%20goyal.png)
 <h2 align="left">Hi 👋!  I 'm Mayer..</h2>
 
 ###

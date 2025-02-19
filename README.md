@@ -1,10 +1,10 @@
-![logo](https://github.com/mayergoyal/mayergoyal/blob/main/Mayer%20goyal.png)
+![logo](https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif)
 
 <h2 align="left">Hi 👋! I'm Mayer.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="nhi h " />
+
 
 ###
 
